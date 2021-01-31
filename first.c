@@ -9,7 +9,7 @@ int func1()
 int func2()
 {
     //commit 2
-    return 0;
+    return 20+22;
 }
 
 // 형주
