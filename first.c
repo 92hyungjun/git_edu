@@ -9,6 +9,7 @@ int func1()
 int func2()
 {
     //commit 2
+    // terminal
     return 20+22;
 }
 
