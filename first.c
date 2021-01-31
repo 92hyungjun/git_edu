@@ -13,6 +13,7 @@ int func2()
 
 int func3()
 {
+    // bug fix
     return 0;
 }
 
